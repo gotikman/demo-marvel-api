@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/www-react-api/static/css/main.1c481f2e.chunk.css",
+    "main.js": "/www-react-api/static/js/main.95bac8c2.chunk.js",
+    "main.js.map": "/www-react-api/static/js/main.95bac8c2.chunk.js.map",
+    "runtime-main.js": "/www-react-api/static/js/runtime-main.413e6b03.js",
+    "runtime-main.js.map": "/www-react-api/static/js/runtime-main.413e6b03.js.map",
+    "static/js/2.07cf8d5f.chunk.js": "/www-react-api/static/js/2.07cf8d5f.chunk.js",
+    "static/js/2.07cf8d5f.chunk.js.map": "/www-react-api/static/js/2.07cf8d5f.chunk.js.map",
+    "index.html": "/www-react-api/index.html",
+    "static/css/main.1c481f2e.chunk.css.map": "/www-react-api/static/css/main.1c481f2e.chunk.css.map",
+    "static/js/2.07cf8d5f.chunk.js.LICENSE.txt": "/www-react-api/static/js/2.07cf8d5f.chunk.js.LICENSE.txt",
+    "static/js/main.95bac8c2.chunk.js.LICENSE.txt": "/www-react-api/static/js/main.95bac8c2.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/www-react-api/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/www-react-api/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/www-react-api/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.413e6b03.js",
+    "static/js/2.07cf8d5f.chunk.js",
+    "static/css/main.1c481f2e.chunk.css",
+    "static/js/main.95bac8c2.chunk.js"
+  ]
+}
